@@ -1,1 +1,4 @@
-# strange_page
+sad page
+
+
+for smbdy lost its love
