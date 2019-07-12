@@ -1,9 +1,24 @@
 #greatings{
-  color: red;
+  color: #781675;
+  font-size: 150%;
+  font-weight: 600;
+  font-style: italic;
+  font-variant: small-caps;
 }
 
 .article_first{
-  padding-bottom: 1000px;
+  padding-bottom: 230px;
   border: 2px solid #000;
-  background-color: #FFFFDE;
+  background-color: #EFABC6;
+}
+
+#head3_out{
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  background-color: #E06A85;
+}
+
+body{
+  background-color: #FF8B7D;
+  font-family: "Comic Sans MS";
 }
